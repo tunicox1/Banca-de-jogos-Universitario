@@ -1,0 +1,401 @@
+# depslib dependency file v1.0
+1620505670 source:d:\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projetodeestrutura2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Usuario/Usuario.h"
+	"./Jogo/Jogo.h"
+
+1620504753 d:\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projetodeestrutura2\usuario\usuario.h
+
+1620504846 source:d:\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projetodeestrutura2\usuario\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+
+1620506419 source:d:\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projetodeestrutura2\jogo\jogo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Jogo.h"
+	"ArvBinJogo/ArvBinJogo.h"
+
+1620505927 d:\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projetodeestrutura2\jogo\jogo.h
+	"../Usuario/Usuario.h"
+
+1620505344 source:d:\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvBinJogo.h"
+
+1620505373 d:\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.h
+	"../Jogo.h"
+
+1620684271 source:d:\desktop\projetodeestrutura2 (1)\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvBinJogo.h"
+
+1620674447 d:\desktop\projetodeestrutura2 (1)\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.h
+	"../Jogo.h"
+
+1620685487 d:\desktop\projetodeestrutura2 (1)\projetodeestrutura2\jogo\jogo.h
+	"../Usuario/Usuario.h"
+
+1620504753 d:\desktop\projetodeestrutura2 (1)\projetodeestrutura2\usuario\usuario.h
+
+1620688243 source:d:\desktop\projetodeestrutura2 (1)\projetodeestrutura2\jogo\jogo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Jogo.h"
+	"ArvBinJogo/ArvBinJogo.h"
+
+1620567930 source:d:\desktop\projetodeestrutura2 (1)\projetodeestrutura2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Usuario/Usuario.h"
+	"./Jogo/Jogo.h"
+
+1620504846 source:d:\desktop\projetodeestrutura2 (1)\projetodeestrutura2\usuario\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+
+1620696707 source:d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvBinJogo.h"
+
+1620674447 d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.h
+	"../Jogo.h"
+
+1620699688 d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\jogo.h
+	"../Usuario/Usuario.h"
+
+1620504753 d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2\usuario\usuario.h
+
+1620699887 source:d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\jogo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Jogo.h"
+	"ArvBinJogo/ArvBinJogo.h"
+
+1620567930 source:d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Usuario/Usuario.h"
+	"./Jogo/Jogo.h"
+
+1620504846 source:d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2\usuario\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+
+1620696707 source:d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvBinJogo.h"
+
+1620674447 d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.h
+	"../Jogo.h"
+
+1620699688 d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\jogo.h
+	"../Usuario/Usuario.h"
+
+1620504753 d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\usuario\usuario.h
+
+1620567930 source:d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Usuario/Usuario.h"
+	"./Jogo/Jogo.h"
+
+1620504846 source:d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\usuario\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+
+1620870227 source:d:\desktop\projetodeestrutura2_allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\jogo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Jogo.h"
+	"ArvBinJogo/ArvBinJogo.h"
+
+1620696707 source:d:\desktop\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvBinJogo.h"
+
+1620674447 d:\desktop\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.h
+	"../Jogo.h"
+
+1620699688 d:\desktop\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\jogo.h
+	"../Usuario/Usuario.h"
+
+1620504753 d:\desktop\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\usuario\usuario.h
+
+1620872201 source:d:\desktop\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\jogo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Jogo.h"
+	"ArvBinJogo/ArvBinJogo.h"
+
+1620567930 source:d:\desktop\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Usuario/Usuario.h"
+	"./Jogo/Jogo.h"
+
+1620504846 source:d:\desktop\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\usuario\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+
+1620696707 source:c:\users\senha\downloads\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvBinJogo.h"
+
+1620674447 c:\users\senha\downloads\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.h
+	"../Jogo.h"
+
+1620699688 c:\users\senha\downloads\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\jogo.h
+	"../Usuario/Usuario.h"
+
+1620504753 c:\users\senha\downloads\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\usuario\usuario.h
+
+1620875261 source:c:\users\senha\downloads\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\jogo\jogo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Jogo.h"
+	"ArvBinJogo/ArvBinJogo.h"
+
+1620567930 source:c:\users\senha\downloads\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Usuario/Usuario.h"
+	"./Jogo/Jogo.h"
+
+1620504846 source:c:\users\senha\downloads\allyson (1)\projetodeestrutura2_allyson (1)\projetodeestrutura2\usuario\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+
+1620696707 source:c:\users\senha\downloads\allyson (1)\pe\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvBinJogo.h"
+
+1620674447 c:\users\senha\downloads\allyson (1)\pe\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.h
+	"../Jogo.h"
+
+1620699688 c:\users\senha\downloads\allyson (1)\pe\projetodeestrutura2\jogo\jogo.h
+	"../Usuario/Usuario.h"
+
+1620504753 c:\users\senha\downloads\allyson (1)\pe\projetodeestrutura2\usuario\usuario.h
+
+1620875261 source:c:\users\senha\downloads\allyson (1)\pe\projetodeestrutura2\jogo\jogo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Jogo.h"
+	"ArvBinJogo/ArvBinJogo.h"
+
+1621023124 source:c:\users\senha\downloads\allyson (1)\pe\projetodeestrutura2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Usuario/Usuario.h"
+	"./Jogo/Jogo.h"
+	"./apostas/apostas.h"
+
+1620504846 source:c:\users\senha\downloads\allyson (1)\pe\projetodeestrutura2\usuario\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuario.h"
+
+1621023151 source:c:\users\senha\downloads\allyson (1)\pe\projetodeestrutura2\apostas\apostas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"../jogo/jogo.h"
+	"../Usuario/Usuario.h"
+	"apostas.h"
+
+1621023151 c:\users\senha\downloads\allyson (1)\pe\projetodeestrutura2\apostas\apostas.h
+
+1621385950 source:d:\meus documentos\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projeto tunico\projetodeestrutura2\apostas\apostas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"apostas.h"
+
+1621372449 d:\meus documentos\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projeto tunico\projetodeestrutura2\jogo\jogo.h
+	"../Usuario/Usuario.h"
+
+1621382624 d:\meus documentos\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projeto tunico\projetodeestrutura2\usuario\usuario.h
+
+1621369976 d:\meus documentos\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projeto tunico\projetodeestrutura2\apostas\apostas.h
+	"../Jogo/jogo.h"
+	"../Usuario/Usuario.h"
+	"../Jogo/ArvBinJogo/ArvBinJogo.h"
+
+1621376159 source:d:\meus documentos\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projeto tunico\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvBinJogo.h"
+
+1621372569 d:\meus documentos\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projeto tunico\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.h
+	"../Jogo.h"
+
+1621384921 source:d:\meus documentos\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projeto tunico\projetodeestrutura2\jogo\jogo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Jogo.h"
+	"../Usuario/Usuario.h"
+	"../apostas/apostas.h"
+	"ArvBinJogo/ArvBinJogo.h"
+
+1621383139 source:d:\meus documentos\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projeto tunico\projetodeestrutura2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Usuario/Usuario.h"
+	"./Jogo/Jogo.h"
+	"./apostas/apostas.h"
+
+1621382615 source:d:\meus documentos\documentos\faculdade\periodo 2020.2\laboratorio de estrutura de dados 2\projeto tunico\projetodeestrutura2\usuario\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../apostas/apostas.h"
+	"../Jogo/jogo.h"
+	"../Jogo/ArvBinJogo/ArvBinJogo.h"
+	"Usuario.h"
+
+1621385950 source:c:\users\senha\downloads\projetodeestrutura2\apostas\apostas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"apostas.h"
+
+1621369976 c:\users\senha\downloads\projetodeestrutura2\apostas\apostas.h
+	"../Jogo/jogo.h"
+	"../Usuario/Usuario.h"
+	"../Jogo/ArvBinJogo/ArvBinJogo.h"
+
+1621372449 c:\users\senha\downloads\projetodeestrutura2\jogo\jogo.h
+	"../Usuario/Usuario.h"
+
+1621382624 c:\users\senha\downloads\projetodeestrutura2\usuario\usuario.h
+
+1621372569 c:\users\senha\downloads\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.h
+	"../Jogo.h"
+
+1621376159 source:c:\users\senha\downloads\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvBinJogo.h"
+
+1621383139 source:c:\users\senha\downloads\projetodeestrutura2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Usuario/Usuario.h"
+	"./Jogo/Jogo.h"
+	"./apostas/apostas.h"
+
+1621382615 source:c:\users\senha\downloads\projetodeestrutura2\usuario\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../apostas/apostas.h"
+	"../Jogo/jogo.h"
+	"../Jogo/ArvBinJogo/ArvBinJogo.h"
+	"Usuario.h"
+
+1622045284 source:c:\users\senha\downloads\projetodeestrutura2\jogo\jogo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Jogo.h"
+	"../Usuario/Usuario.h"
+	"../apostas/apostas.h"
+	"ArvBinJogo/ArvBinJogo.h"
+
+1622057852 source:d:\meus documentos\documentos\projetodeestrutura2\apostas\apostas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"apostas.h"
+
+1622059483 d:\meus documentos\documentos\projetodeestrutura2\apostas\apostas.h
+	"../Jogo/jogo.h"
+	"../Usuario/Usuario.h"
+	"../Jogo/ArvBinJogo/ArvBinJogo.h"
+
+1621372449 d:\meus documentos\documentos\projetodeestrutura2\jogo\jogo.h
+	"../Usuario/Usuario.h"
+
+1621382624 d:\meus documentos\documentos\projetodeestrutura2\usuario\usuario.h
+
+1621372569 d:\meus documentos\documentos\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.h
+	"../Jogo.h"
+
+1621376159 source:d:\meus documentos\documentos\projetodeestrutura2\jogo\arvbinjogo\arvbinjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvBinJogo.h"
+
+1622056619 source:d:\meus documentos\documentos\projetodeestrutura2\jogo\jogo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Jogo.h"
+	"../Usuario/Usuario.h"
+	"../apostas/apostas.h"
+	"ArvBinJogo/ArvBinJogo.h"
+
+1622057463 source:d:\meus documentos\documentos\projetodeestrutura2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Usuario/Usuario.h"
+	"./Jogo/Jogo.h"
+	"./apostas/apostas.h"
+
+1621382615 source:d:\meus documentos\documentos\projetodeestrutura2\usuario\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../apostas/apostas.h"
+	"../Jogo/jogo.h"
+	"../Jogo/ArvBinJogo/ArvBinJogo.h"
+	"Usuario.h"
+

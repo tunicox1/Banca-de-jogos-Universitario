@@ -1,0 +1,2 @@
+1	0	2	3	campeonato1	time1	time2	11.50	2.00	3.00
+2	0	2	2	campeonato2	time3	time4	1.20	1.50	2.40
